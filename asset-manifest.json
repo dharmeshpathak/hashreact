@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hashreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hashreact/static/js/main.9072ec4d.chunk.js",
+    "main.js.map": "/hashreact/static/js/main.9072ec4d.chunk.js.map",
+    "runtime-main.js": "/hashreact/static/js/runtime-main.7f34f2b1.js",
+    "runtime-main.js.map": "/hashreact/static/js/runtime-main.7f34f2b1.js.map",
+    "static/js/2.884ebb0f.chunk.js": "/hashreact/static/js/2.884ebb0f.chunk.js",
+    "static/js/2.884ebb0f.chunk.js.map": "/hashreact/static/js/2.884ebb0f.chunk.js.map",
+    "index.html": "/hashreact/index.html",
+    "precache-manifest.e0d2a92d83869ef28718ba6782714759.js": "/hashreact/precache-manifest.e0d2a92d83869ef28718ba6782714759.js",
+    "service-worker.js": "/hashreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hashreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.884ebb0f.chunk.js.LICENSE.txt": "/hashreact/static/js/2.884ebb0f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hashreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f34f2b1.js",
+    "static/js/2.884ebb0f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9072ec4d.chunk.js"
+  ]
+}
