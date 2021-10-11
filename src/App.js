@@ -24,7 +24,8 @@ function App() {
   
   }
   
-
+// use another component instead of direct component definition
+  
   render() {
 
     return (
